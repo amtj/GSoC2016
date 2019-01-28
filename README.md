@@ -18,6 +18,6 @@ waiting for the response for such requests which do not require a response back.
 
 With this average time taken for a service request has been reduced.
 
-[GSoC Archive](https://summerofcode.withgoogle.com/projects/#5686953248817152)
+[GSoC Archive](https://summerofcode.withgoogle.com/archive/2016/projects/6433512848621568/)
 
 [Commits](https://bitbucket.org/ignitionrobotics/ign-transport/commits/all?search=user(Amitoj))
